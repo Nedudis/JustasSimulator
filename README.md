@@ -5,4 +5,4 @@
 </div>
 
 # Information
-The game doesn't have to be installed, just download and play or you can download the source code and compile it yourself using **Visual studio**
+The game doesn't have to be installed, you can download the source code and compile it yourself using **Visual studio**
